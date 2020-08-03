@@ -60,7 +60,6 @@ public class AddCardActivity extends AppCompatActivity implements View.OnClickLi
         edit_cardExpiryYear.setText("23");
         edit_email.setText("premkumar@mobiversa.com");
     }
-
     @Override
     public void onClick(View v) {
         if (v == btn_submit) {
