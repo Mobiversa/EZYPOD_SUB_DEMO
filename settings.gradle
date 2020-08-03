@@ -1,0 +1,3 @@
+include ':ezypod_sdk_v2.1'
+include ':ezypod_sdk_v2.0'
+include ':app', ':ezypod_sdk_v2.0'
